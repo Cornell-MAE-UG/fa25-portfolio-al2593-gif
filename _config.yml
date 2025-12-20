@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Allen Liu
 description              : Allen Liu - Projects and CV 
-baseurl                  : /fa25-portfolio-al2593-gif 
+baseurl                  : /fa25-portfolio-al2593-gif
 
 # Theme and Style
 theme: jekyll-theme-minimal
