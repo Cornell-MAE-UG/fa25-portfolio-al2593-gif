@@ -8,23 +8,22 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [al2593@cornell.edu](mailto:al2593@cornell.edu) | | | **Phone:** +1 909 202 2985
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Mechanical engineering student focused on applying analytical thinking and system-level reasoning to real-world engineering problems, with an interest in performance, efficiency, and practical design tradeoffs.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.3/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
-  *High School Diploma*  
-  Graduation: [Month, Year]
+- **Los Osos High School**   
+  Graduation: May, 2024
 
 ---
 
