@@ -18,9 +18,9 @@ A standard residential air conditioning system consists of four main components:
 - **Condenser**: Rejecting heat to the outdoor environment as the working liquid condenses
 - **Expansion Valve**: Reducing the refrigerant pressure, preparing it for the next cycle, ending back where we started
 
-The system operates as a steady-flow control volume with continuous mass flow of refrigerant.
+The system operates as a steady-flow control volume with continuous mass flow of the working liquid.
 
-## System Diagram and Energy Interactions
+## System Diagrams and Energy Interactions
 
 The air conditioner is modeled as a control volume with the following interactions:
 
@@ -29,38 +29,45 @@ The air conditioner is modeled as a control volume with the following interactio
 - **Heat rejection** in the condenser
 - **Negligible kinetic and potential energy changes**
 
+SYSTEM DIAGRAM IMAGE HERE
+
 Mass flow is constant throughout the cycle under steady operating conditions.
 
 ## Governing Equations
 
 ### Mass Balance
 For steady operation:
-\[
-\sum \dot{m}_{in} = \sum \dot{m}_{out}
-\]
+ṁ_in = ṁ_out = ṁ
 
 ### Energy Balance
 Applied to each component:
-\[
-\dot{Q} - \dot{W} = \dot{m}(h_{out} - h_{in})
-\]
+Q̇ − Ẇ + ṁ h_in − ṁ h_out = 0
+
+Applied to individual components: 
+Compressor:
+Ẇ_comp = ṁ (h₂ − h₁)
+
+Evaporator:
+Q̇_evap = ṁ (h₁ − h₄)
+
+Condenser: 
+Q̇_cond = ṁ (h₂ − h₃)
 
 ### Entropy Balance
 For each component:
-\[
-\dot{S}_{gen} = \dot{m}(s_{out} - s_{in}) - \sum \frac{\dot{Q}}{T}
-\]
+Ṡ_gen = ṁ (s_out − s_in) − Q̇ / T
 
 Entropy generation accounts for irreversibilities such as friction, non-ideal compression, and finite temperature heat transfer.
+
+For all real processes: 
+Ṡ_gen ≥ 0
 
 ## Performance Metrics
 
 The primary measure of system performance is the **Coefficient of Performance (COP)**:
-\[
-COP = \frac{\dot{Q}_{evap}}{\dot{W}_{comp}}
-\]
+COP = Q̇_evap / Ẇ_comp
 
-A higher COP indicates more effective cooling per unit of work input.
+A higher COP indicates more effective cooling per unit of work done.
 
 ## Effect of Operating Condition Changes
 
