@@ -82,7 +82,7 @@ This explains why air conditioners perform worse during very hot days.
 
 ## Design Modification Analysis
 
-Improving condenser heat transfer, such as by increasing surface area or airflow, reduces condenser pressure. This lowers compressor work and improves overall COP. While this increases system size, complexity, and cost (both in maintenance and construction), it results in higher efficiency and improved performance under high thermal loads.
+Improving condenser heat transfer, such as by increasing surface area or airflow, reduces condenser pressure. This lowers compressor work and improves overall COP. While this increases system size, complexity, and cost (both in construction and maintenance), it results in higher efficiency and improved performance under high thermal loads.
 
 ## Conclusion
 
