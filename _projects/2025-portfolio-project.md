@@ -20,6 +20,8 @@ A standard residential air conditioning system consists of four main components:
 
 The system operates as a steady-flow control volume with continuous mass flow of the working liquid.
 
+<img src="{{ "/assets/images/schematic.jpg" | relative_url }}" alt="System diagram" width="500">
+
 ## System Diagrams and Energy Interactions
 
 The air conditioner is modeled as a control volume with the following interactions:
