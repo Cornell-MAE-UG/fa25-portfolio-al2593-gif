@@ -78,13 +78,13 @@ One important operating condition is **outdoor air temperature**. As outdoor tem
 - COP decreases
 - Entropy generation increases
 
-This explains why air conditioners perform worse during extremely hot days.
+This explains why air conditioners perform worse during very hot days.
 
 ## Design Modification Analysis
 
-Improving condenser heat transfer, such as by increasing surface area or airflow, reduces condenser pressure. This lowers compressor work and improves overall COP. While this increases system size or cost, it results in higher efficiency and improved performance under high thermal loads.
+Improving condenser heat transfer, such as by increasing surface area or airflow, reduces condenser pressure. This lowers compressor work and improves overall COP. While this increases system size, complexity, and cost (both in maintenance and construction), it results in higher efficiency and improved performance under high thermal loads.
 
 ## Conclusion
 
-The vapor-compression air conditioning system demonstrates how thermodynamic principles directly influence real engineering performance. Changes in operating conditions and component design significantly affect efficiency, energy consumption, and irreversibility generation. Understanding these tradeoffs is essential for designing and evaluating practical thermal systems.
+The vapor-compression air conditioning system demonstrates how thermodynamic principles directly influence real engineering performance and how they have a direct effect on everyday lives. Changes in operating conditions and component design significantly affect efficiency, energy consumption, and entropy generation. Understanding these tradeoffs is crucial for designing and evaluating practical systems that impact millions.
 
