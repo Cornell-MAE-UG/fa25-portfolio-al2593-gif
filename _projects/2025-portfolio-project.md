@@ -29,7 +29,7 @@ The air conditioner is modeled as a control volume with the following interactio
 - **Heat rejection** in the condenser
 - **Negligible kinetic and potential energy changes**
 
-SYSTEM DIAGRAM IMAGE HERE
+![System diagram]({{ "/assets/images/system-diagram.jpg" | relative_url }})
 
 Mass flow is constant throughout the cycle under steady operating conditions.
 
