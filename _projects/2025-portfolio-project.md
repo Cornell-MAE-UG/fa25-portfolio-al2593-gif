@@ -89,4 +89,3 @@ Improving condenser heat transfer, such as by increasing surface area or airflow
 ## Conclusion
 
 The vapor-compression air conditioning system demonstrates how thermodynamic principles directly influence real engineering performance and how they have a direct effect on everyday lives. Changes in operating conditions and component design significantly affect efficiency, energy consumption, and entropy generation. Understanding these tradeoffs is crucial for designing and evaluating practical systems that impact millions.
-
