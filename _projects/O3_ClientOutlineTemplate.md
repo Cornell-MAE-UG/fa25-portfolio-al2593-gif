@@ -72,3 +72,4 @@ Focus on questions they can answer from lived experience.
 ## Figure
 <!-- ![<Figure 1: Mechanical Jaw Bucket Design with Internal Compartment>]
 (figures/<design 1>.png) -->
+
