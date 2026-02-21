@@ -5,6 +5,8 @@ Compile to PDF (example):
 ---
 layout: project
 title: "Client Outline Template"
+description: Spotted lanternfly egg removal mechanical system concept
+image: /assets/images/ac-condenser.jpg
 ---
 # Your Project Title
 
