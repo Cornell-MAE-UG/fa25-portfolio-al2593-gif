@@ -7,6 +7,7 @@ image: /assets/images/spotted-lanternfly.jpg
 # Your Project Title
 
 **Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)
+
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
 
 ## Problem statement (most important)
@@ -36,11 +37,11 @@ By the end of the semester, we will have a tested prototype showing proof of con
 
 ## Key risks / unknowns
 
-- <Risk 1> — Operation of this device can be labor and time intensive for farmers with tight margins
+- Risk 1 — Operation of this device can be labor and time intensive for farmers with tight margins
 Importance/Testing: If too slow, vineyards won’t adopt it; test by finding time per egg mass
-- <Risk 2> — Damage to grapevines or grapes when the egg masses are scraped off
+- Risk 2 — Damage to grapevines or grapes when the egg masses are scraped off
 Importance/Testing: If it damages vines, they may be unusable; inspect after repeated use to test
-- <Risk 3> — Interference with growing regulations by introducing a new device into the vineyard
+- Risk 3 — Interference with growing regulations by introducing a new device into the vineyard
 Importance/Testing: If it violates regulations, it can’t be used; test by checking growing standards
 
 ## Questions for the client
@@ -62,7 +63,4 @@ Focus on questions they can answer from lived experience.
 - https://doi.org/10.1093/ee/nvaa107
 
 ## Figure
-<!-- ![<Figure 1: Mechanical Jaw Bucket Design with Internal Compartment>]
-(figures/<design 1>.png) -->
-
-Add front matter to O3 project
+<img src="{{ "/assets/images/prototype-drawing.jpg" | relative_url }}" alt="System diagram" width="500">
