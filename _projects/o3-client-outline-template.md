@@ -2,16 +2,10 @@
 Compile to PDF (example):
   pandoc O3_ClientOutline_example_submission.md -o O3_ClientOutline.pdf
 -->
-
 ---
-fontsize: 11pt
-geometry: margin=1in
-papersize: letter
-pagestyle: empty
-header-includes:
-  - \pagenumbering{gobble}
+title: "Client Outline Template"
+layout: project
 ---
-
 # Your Project Title
 
 **Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)
