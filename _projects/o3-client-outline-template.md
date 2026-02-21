@@ -2,7 +2,7 @@
 layout: project
 title: "Client Outline Template"
 description: Spotted lanternfly egg removal mechanical system concept
-image: /assets/images/ac-condenser.jpg
+image: /assets/images/spotted-lanternfly.jpg
 ---
 # Your Project Title
 
