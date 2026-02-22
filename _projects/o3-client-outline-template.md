@@ -24,16 +24,16 @@ Dual-Jaw Egg Removal and Containment System
 
 **What it is:** <1–2 sentences.>  
 **How it would be used:** 
-Uses a trigger on a handle to create a high mechanical advantage to close the jaws
-Jaws scrape against the surface, removing and collecting the egg masses
-Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
+- Uses a trigger on a handle to create a high mechanical advantage to close the jaws
+- Jaws scrape against the surface, removing and collecting the egg masses
+- Uses a sliding door container to allow egg masses to fall in but not back out onto the ground
   
 **Why it’s better than the status quo:** 
-More efficient and comfortable than scraping with a card, allows collection of many egg masses
-Doesn’t use chemicals or toxic fluids, doesn’t interfere with farm equipment or operations
+- More efficient and comfortable than scraping with a card, allows collection of many egg masses
+- Enables easy counting of egg masses in the bucket to numerically evaluate the device's impact
  
 **End-of-semester proof-of-concept:** 
-By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects simulated egg masses off various surfaces and requires little force input to operate.
+- By the end of the semester, we will have a tested prototype showing proof of concept that efficiently removes and collects - simulated egg masses off various surfaces and requires little force input to operate.
 
 ## Key risks / unknowns
 
