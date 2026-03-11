@@ -82,7 +82,7 @@ Lc = 22.22 cm
 
 ## Nutcracker Design Diagram
 
-<img src="{{ "/assets/images/Macademia_Nutcracker_Design.jpg" | relative_url }}" alt="System diagram" width="500">
+<img src="{{ "/assets/images/Macademia_Nutcracker_Design.jpg" | relative_url }}" alt="System diagram" width="400">
 
 ## Usability Discussion
 
