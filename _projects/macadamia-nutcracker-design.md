@@ -2,9 +2,8 @@
 title: Macadamia Nutcracker Design
 layout: project
 description: Lever design for cracking a macadamia nut using human grip force
+image: /assets/images/Macademia_Nut.jpg
 ---
-
-# Macadamia Nutcracker Design
 
 ## Problem Statement
 
