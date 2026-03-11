@@ -82,10 +82,6 @@ Lc = 22.22 cm
 
 ## Nutcracker Design Diagram
 
-Insert the design sketch of the lever nutcracker here.
-
-Example image reference:
-
 <img src="{{ "/assets/images/Macademia_Nutcracker_Design.jpg" | relative_url }}" alt="System diagram" width="500">
 
 ## Usability Discussion
