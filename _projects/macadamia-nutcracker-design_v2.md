@@ -54,7 +54,7 @@ Select a linear actuator based on force and stroke requirements
 
 ## Solution
 
-1. Force Analysis
+*Force Analysis:*
 
 Required nut force:
 
@@ -64,21 +64,20 @@ Input force:
 
 Finput = Fnut / MA = 1110 / 12.5 ≈ 89 N
 
-2. Beam Model
+*Beam Model:*
 
 Each handle:
-
 Fixed at pivot
 Load applied at free end
 Acts as a cantilever beam
 
 Maximum deflection occurs at the free end.
 
-3. Deflection Equation
+*Deflection Equation:*
 
 δ = FL^3/3EI
 
-4. Cross-Section Selection
+*Cross-Section Selection:*
 
 I = bh^3/12
 
@@ -87,16 +86,49 @@ Trial dimensions:
 b=0.02m
 h=0.01m
 
-I = 1.67 × 10^−9 m4
+I ≈ 1.67 × 10⁻⁹ m⁴
 
-5. Deflection Calculation
+*Deflection Calculation:*
 
+δ = (89 × 0.25³) / (3 × 70×10⁹ × 1.67×10⁻⁹) = 0.004 m 
 
+Therefore design satisfies constraint.
 
+*Mass Efficiency Insight:*
 
+I scales with h³
+Increasing height is far more effective than width
 
+Conclusion:
+A tall, narrow beam is most efficient
 
+*Linear Actuator Selection:*
 
+Requirements:
+
+Minimum force ≈ 89 N
+With safety factor → ≥ 200 N
+Stroke ≈ 50 mm
+
+Selected actuator:
+
+Force capacity ≈ 220 N
+Stroke ≈ 50 mm
+12V system
+
+*Final Design:*
+Mechanical advantage: 12.5
+Actuator replaces hand force
+Aluminum beam handles
+Cross-section: 20 mm × 10 mm
+Max deflection: 4 mm
+
+System behavior:
+
+Actuator applies force
+Lever amplifies force
+Nut is cracked
+Handles remain within elastic limits
 
 
 
