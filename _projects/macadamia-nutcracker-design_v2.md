@@ -75,11 +75,11 @@ Maximum deflection occurs at the free end.
 
 *Deflection Equation:*
 
-δ = FL^3/3EI
+δ = (FL^3)/3EI
 
 *Cross-Section Selection:*
 
-I = bh^3/12
+I = (bh^3)/12
 
 Trial dimensions:
 
@@ -130,10 +130,16 @@ Lever amplifies force
 Nut is cracked
 Handles remain within elastic limits
 
+*Reflection:*
+
+The biggest shift in this problem is realizing the handles are not rigid, which turns it into a beam deflection problem rather than just statics.
+The constraint on deflection forces a tradeoff between stiffness and mass, making cross-section design important.
+The h³ relationship in I is the key insight. Most stiffness comes from height, not width.
+Replacing human input with a linear actuator improves consistency and removes variability in applied force.
+The final design is simple but effective, balancing force amplification, structural integrity, and efficiency.
 
 
-
-
+<img src="{{ "/assets/images/macadamia_actuator.jpg" | relative_url }}" alt="System diagram" width="400">
 
 
 
