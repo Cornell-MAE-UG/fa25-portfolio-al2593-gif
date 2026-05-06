@@ -15,6 +15,8 @@ image: /assets/images/Prototype.jpg
 
 [ODP5: Functional Prototype](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/functional-prototype-05/)
 
+[ODP6: Exhibit and Client Report](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/exhibit-and-client-report/)
+
 ## Context and Problem
 * The spotted lanternfly (SLF) is an invasive species that damages trees, crops, and local ecosystems.
 * Removing egg masses before they hatch is one of the most effective ways to control the population.
