@@ -6,26 +6,19 @@ image: /assets/images/spotted-lanternfly.jpg
 ---
 # The EGGsterminator
 
-**Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)\
+**Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)
 
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
 ## Summary of overall process
 
-The spotted lanternfly (SLF) is an invasive species that causes major damage
-to trees, crops, and ecosystems by feeding on plant sap and weakening vegetation. 
-One of the most effective ways to limit population growth is removing and destroying 
-egg masses before they hatch. However, existing removal methods are often inefficient, messy, 
-and inconvenient. Current scraping tools fail to fully collect the egg masses, allowing eggs to fall 
-to the ground where they may still hatch. The process can also be uncomfortable for users and 
-difficult on uneven outdoor surfaces such as tree bark, fences, and stone.
+# Context and Problem
+* The spotted lanternfly (SLF) is an invasive species that damages trees, crops, and local ecosystems.
+* Removing egg masses before they hatch is one of the most effective ways to control the population.
+* Current removal methods are often messy, inefficient, and difficult to use on uneven outdoor surfaces.
+* In many cases, removed egg masses can fall to the ground instead of being fully collected.
 
-To address this issue, our team designed and developed a custom device specifically intended for SLF 
-egg mass removal. We began by researching the problem, brainstorming concepts, and evaluating different 
-approaches based on effectiveness, ergonomics, manufacturability, and ease and comfort of use. Our final design 
-featured scraping jaws combined with a collection system intended to capture the removed egg masses 
-instead of letting them fall. We created CAD models, built a functional prototype, and refined the design 
-through multiple iterations and testing. Throughout the project, we incorporated expert and peer feedback and analyzed how 
-the device could be improved for usability, durability, and future large scale manufacturing.
+# Our Solution
+To address this problem, our team designed a custom device specifically for SLF egg mass removal. We researched the issue, developed multiple concepts, and created a final design featuring scraping jaws and a collection system to capture removed egg masses. After building and testing a functional prototype, we refined the design based on usability, effectiveness, and manufacturability.
 
 <img src="{{ "/assets/images/Prototype.jpg" | relative_url }}" alt="System diagram" width="500">
