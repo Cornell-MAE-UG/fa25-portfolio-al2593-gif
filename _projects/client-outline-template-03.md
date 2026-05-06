@@ -4,7 +4,7 @@ title: "Client Outline Template"
 description: Spotted lanternfly egg removal mechanical system concept
 image: /assets/images/spotted-lanternfly.jpg
 ---
-# Your Project Title
+# The EGGsterminator
 
 **Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)
 
