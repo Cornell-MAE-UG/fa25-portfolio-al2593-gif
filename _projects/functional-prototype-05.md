@@ -3,7 +3,6 @@ layout: project
 title: "Functional Prototype - Team BuzzKill"
 description: Spotted lanternfly egg removal mechanical system concept
 image: /assets/images/spotted-lanternfly.jpg
-hidden: true
 ---
 # Design Documentation
 Our part list is as follows:
