@@ -13,7 +13,7 @@ image: /assets/images/Prototype.jpg
 # Summary of overall process
 [ODP3: Client Outline & Pitch](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/client-outline-template-03/)
 
-[ODP5: Functional Prototype]
+[ODP5: Functional Prototype](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/functional-prototype-05/)
 
 ## Context and Problem
 * The spotted lanternfly (SLF) is an invasive species that damages trees, crops, and local ecosystems.
