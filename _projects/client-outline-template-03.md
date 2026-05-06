@@ -22,7 +22,8 @@ Jaw-Bucket Egg Removal and Containment System
 
 ### Concept A (primary): The Buzzkiller
 
-**What it is:** <1–2 sentences.>  
+**What it is:** Jaws scrape off and collect egg masses. An internal compartment stores eggs for later disposal.
+
 **How it would be used:** 
 - Uses a trigger on a handle to create a high mechanical advantage to close the jaws
 - Jaws scrape against the surface, removing and collecting the egg masses
