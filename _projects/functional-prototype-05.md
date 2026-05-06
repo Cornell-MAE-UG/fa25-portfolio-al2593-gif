@@ -97,7 +97,7 @@ Figure 18: Final Assembled Prototype in Operating Position
 <img src="{{ "/assets/images/Figure18.jpg" | relative_url }}" alt="System diagram" width="200">
 
 # Design Testing
-## Test One: 
+## Test One
 *Part*: Bucket and Jaw Assembly
 
 *What it is Testing*: Scraping/Hinging Force of the Jaw When Attached to Bucket, Durability
@@ -115,7 +115,7 @@ After 100 cycles:
 
 *Conclusion for Next Iteration*: Opening gap increased by 0.1 inch and force decreased by 1N over 100 usage cycles. The springs we used for this prototype are too long and too prone to wear, so we will find shorter and more durable springs for the next prototype.
 
-## Test Two: 
+## Test Two 
 *Part*: Handle/Trigger Assembly
 
 *What it is Testing*: Ergonomics of the handle as well as the force required to squeeze the handle.
@@ -137,7 +137,7 @@ Figure 19: RULA Score Meanings (2)
 Figure 20: RULA Calculations with CU Ergo Template (1)
 <img src="{{ "/assets/images/Figure20.jpg" | relative_url }}" alt="System diagram" width="200">
 
-# Test Three: 
+# Test Three
 *Part*: Jaw-Trigger-String connection
 
 *What it is Testing*: Effectiveness of the assembly at opening the jaw wide enough.
@@ -157,16 +157,16 @@ Note: We had initially planned a fourth test for the spring force of the bucket 
 ## Success Criteria
 Our project is a prototype jaw device designed to remove spotted lanternfly egg masses from a variety of surfaces efficiently and safely. The goal is to improve egg mass removal efficiency and collection ability while being easy to operate.
 
-Criteria:
+## Criteria
 - The final prototype should have high removal effectiveness such that after one use on a simulated Play-Doh “egg mass” on a variety of test surfaces (bark, metal, etc.) the remaining egg mass should be less than 10% of its original area. Using calipers in the TDS this can be measured repeatedly to observe average performance. Less than 10% remaining egg mass is a high priority.
 - The final prototype should be durable such that after 100 cycles the jaw opening distance and clamping force remain with +/-5% of their initial measurements. The opening distance can be measured using a ruler and the clamping force can be measured using a spring scale. A higher durability tolerance than 5% after 100 cycles is mid priority.
 - The final prototype should have a large jaw output force capable of scraping off an egg mass. The device should generate greater than or equal to 10N clamping force at the teeth on the jaw. This can be measured using a spring scale. More force is not a priority.
 - The final prototype should be user-friendly such that it can be used for a long time, in many different angles and orientations, by many different people. The device should have a total score below 5 on the RULA (Rapid Upper Limb Assessment) and weigh less than 15 pounds. A lower RULA score and more usable orientations is high priority.
 
-Exhibit-Day Criterion:
+## Exhibit-Day Criterion
 We think we will demonstrate removal effectiveness with an interactive exhibit. Visitors can use the device to try to remove Play-Doh “egg masses” from the test surface, which will be bark, metal, or plastic, and can then measure the material of the remaining egg mass. This will show effectiveness of the jaw for removing egg masses and minimal damage to the surface.
 
-References
+## References
 1. Hedge, Alan. CUergo: RULA. Cornell University, https://ergo.human.cornell.edu/ahRULA.html. Accessed 23 Mar. 2026.
 2. Ergonomics Plus: A Step-by-Step Guide: Rapid Upper Limb Assessment (RULA), https://ergo-plus.com/wp-content/uploads/RULA-A-Step-by-Step-Guide1.pdf. Accessed 23 Mar. 2026.
 3. University of Rhode Island Biocontrol Lab. Biocontrol of Insects: Spotted Lanternfly: Identification and Life Cycle, https://web.uri.edu/biocontrol/projects/slf-identification-and-life-cycle/. Accessed 23 Mar. 2026.
