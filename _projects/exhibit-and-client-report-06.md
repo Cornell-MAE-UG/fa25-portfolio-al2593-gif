@@ -3,6 +3,7 @@ layout: project
 title: "Exhibit and Client Report - Team BuzzKill"
 description: Spotted lanternfly egg removal mechanical system concept
 image: /assets/images/spotted-lanternfly.jpg
+hidden: true
 ---
 
 # Context and Problem Statement
