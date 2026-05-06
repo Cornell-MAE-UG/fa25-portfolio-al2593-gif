@@ -27,3 +27,5 @@ featured scraping jaws combined with a collection system intended to capture the
 instead of letting them fall. We created CAD models, built a functional prototype, and refined the design 
 through multiple iterations and testing. Throughout the project, we incorporated expert and peer feedback and analyzed how 
 the device could be improved for usability, durability, and future large scale manufacturing.
+
+<img src="{{ "/assets/images/Prototype.jpg" | relative_url }}" alt="System diagram" width="500">
