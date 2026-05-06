@@ -99,9 +99,12 @@ Figure 18: Final Assembled Prototype in Operating Position
 # Design Testing
 ## Test One: 
 *Part*: Bucket and Jaw Assembly
+
 *What it is Testing*: Scraping/Hinging Force of the Jaw When Attached to Bucket, Durability
+
 *How to Perform Test*: 
-- Using spring scale, measure output force of the jaw mechanism, and using ruler measure opening gap of the jaw due to spring rest length. Then, cycle the actuating system 100 times, and measure the output force and rest length again. Observe any changes in force or rest length. 
+- Using spring scale, measure output force of the jaw mechanism, and using ruler measure opening gap of the jaw due to spring rest length. Then, cycle the actuating system 100 times, and measure the output force and rest length again. Observe any changes in force or rest length.
+  
 *Test Results*: 
 Initial: 
 - Output force of jaw mechanism when fully open: 12.5N
@@ -109,11 +112,14 @@ Initial:
 After 100 cycles: 
 - Output force of jaw mechanism when fully open: 11.5N
 - Opening gap due to jaw due to spring rest length: 1.15 inches
+
 *Conclusion for Next Iteration*: Opening gap increased by 0.1 inch and force decreased by 1N over 100 usage cycles. The springs we used for this prototype are too long and too prone to wear, so we will find shorter and more durable springs for the next prototype.
 
 ## Test Two: 
 *Part*: Handle/Trigger Assembly
+
 *What it is Testing*: Ergonomics of the handle as well as the force required to squeeze the handle.
+
 *How to Perform Test*: 
 - We first took images of a group member using the prototype in three different positions. One where they held the prototype upwards as if scraping egg masses from above, one straight in front, and one downwards. The RULA (Rapid Upper Limb Assessment) was completed. We used CUErgo (1) to guide us through the process of conducting this test, with our client feedback providing information we could use to estimate how long the user would be in each position.
 *Test Results*: 
@@ -122,6 +128,7 @@ After 100 cycles:
 - High position: scored a 4
 - Total RULA score: 3.9
 - Took over 40 pounds of force to squeeze handle when not perfectly aligned
+
 *Conclusion for Next Iteration*: Our goal for this prototype was to get a RULA score below 5, which means that users will be at a low risk of MSD (musculoskeletal disorders) from our device, based on the below graphic from Ergo-Plus (2). See images below for further information. We calculated our prototype to have a total RULA score of 3.9, indicating low risk and achieving our goal of <5. For our next prototype, we aim to keep our score at or below 3.9. The handle and trigger will also be redesigned because the rail system often jams, causing the trigger to be stuck even for large squeezing forces.
 
 Figure 19: RULA Score Meanings (2)
@@ -132,13 +139,17 @@ Figure 20: RULA Calculations with CU Ergo Template (1)
 
 # Test Three: 
 *Part*: Jaw-Trigger-String connection
+
 *What it is Testing*: Effectiveness of the assembly at opening the jaw wide enough.
+
 *How to Perform Test*: 
 - Using the assembled prototype, pull the trigger as far as possible and measure the opening distance of the jaw. Then, compare this height with the average size of an SLF egg mass.
+
 *Test Results*: 
 - Measured opening distance: 1.95 inches
 - Measured rest length opening: 1.05 inches
 - Egg masses are roughly 1.5 inches long. (3)
+
 *Conclusion for Next Iteration*: We need to increase the amount the trigger pulls the lid upwards. The hinge and design allows the distance needed but the trigger is not currently able to pull it anywhere close to its maximum height. Due to limitations in the range of motion of a human hand, it will likely need to be redesigned to amplify the motion of a typical person's range of motion in their hand.
 
 Note: We had initially planned a fourth test for the spring force of the bucket divider, but even before implementing, we could tell that the springs we ordered from McMaster would have too high a spring constant to be used and were too large, so we decided not to implement the divider until we had found the correct springs, which allowed us more time to focus on getting the complex jaw and bucket mechanism correct.
