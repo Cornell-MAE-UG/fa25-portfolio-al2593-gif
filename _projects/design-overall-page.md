@@ -22,3 +22,5 @@ image: /assets/images/spotted-lanternfly.jpg
 To address this problem, our team designed a custom device specifically for SLF egg mass removal. We researched the issue, developed multiple concepts, and created a final design featuring scraping jaws and a collection system to capture removed egg masses. After building and testing a functional prototype, we refined the design based on usability, effectiveness, and manufacturability.
 
 <img src="{{ "/assets/images/Prototype.jpg" | relative_url }}" alt="System diagram" width="500">
+
+[ODP3:Client Outline & Pitch](https://github.com/Cornell-MAE-UG/fa25-portfolio-al2593-gif/blob/main/_projects/client-outline-template-03.md)
