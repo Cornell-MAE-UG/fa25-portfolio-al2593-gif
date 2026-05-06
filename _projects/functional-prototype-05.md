@@ -59,7 +59,7 @@ This then yields the larger, more surface-level operation of the functional prot
 Figure 10: Entire CAD Prototype
 <img src="{{ "/assets/images/Figure10.jpg" | relative_url }}" alt="System diagram" width="200">
 
-# Assembly Process:
+# Assembly Process
 After 3D printing the parts shown above and ordering the rest of the parts from McMaster or sourcing from the Taylor Design Studio, we began the assembly process. Due to larger than expected tolerances of the RPL, we had to sand down the diameter of the PVC pipe in order for it to fit into the slots on our components. We then drilled ¼ in holes in the pipe at the locations needed to bolt the components to the pipe and run string where needed.
 
 First, a through hole was drilled in the back of the pipe and the shoulder stock was bolted on. For consistency, will use red arrows denoting functional/mechanical motion (intended use) and blue arrows for assembly processes.
