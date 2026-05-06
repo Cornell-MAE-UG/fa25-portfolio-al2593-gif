@@ -3,7 +3,7 @@ layout: project
 title: "Client Outline Template"
 description: Spotted lanternfly egg removal mechanical system concept
 image: /assets/images/spotted-lanternfly.jpg
-published: false
+hidden: true
 ---
 # The EGGsterminator
 
