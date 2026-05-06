@@ -11,7 +11,7 @@ image: /assets/images/Prototype.jpg
 **Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
 # Summary of overall process
-[ODP3:Client Outline & Pitch](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/client-outline-template-03/)
+[ODP3: Client Outline & Pitch](https://cornell-mae-ug.github.io/fa25-portfolio-al2593-gif/projects/client-outline-template-03/)
 
 ## Context and Problem
 * The spotted lanternfly (SLF) is an invasive species that damages trees, crops, and local ecosystems.
