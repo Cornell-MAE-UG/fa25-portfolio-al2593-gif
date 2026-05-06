@@ -164,3 +164,10 @@ and rehearse the elevator pitch with the adjustments made to fill in for his pla
 sure that our presentation was still able to go smoothly despite his absence. Furthermore, we informed him
 of the progress we made on the project so that he was up to speed upon his return. This provided a smooth
 transition.
+
+## Bill of Materials 
+<img src="{{ "/assets/images/Figure4A.jpg" | relative_url }}" alt="System diagram" width="500">
+<img src="{{ "/assets/images/Figure5A.jpg" | relative_url }}" alt="System diagram" width="500">
+<img src="{{ "/assets/images/Figure6A.jpg" | relative_url }}" alt="System diagram" width="500">
+
+
