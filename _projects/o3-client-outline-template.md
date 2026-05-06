@@ -8,7 +8,7 @@ image: /assets/images/spotted-lanternfly.jpg
 
 **Team:** BuzzKill (Ethan Moger, Bennett Wehibe, Adair Bluman, Trevor Crouse, Allen Liu)
 
-**Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape  
+**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
 
 ## Problem statement (most important)
 
@@ -20,7 +20,7 @@ Vineyards reduce SLF populations at the source by targeting egg masses, which pr
 ## Proposed direction(s)
 Dual-Jaw Egg Removal and Containment System
 
-### Concept A (primary): <1-line name>
+### Concept A (primary): The Buzzkiller
 
 **What it is:** <1–2 sentences.>  
 **How it would be used:** 
@@ -52,10 +52,6 @@ Focus on questions they can answer from lived experience.
    *Decision affected:* Material of our scraper (some surfaces might require more or less force)
 3. **Are eggs often laid in places throughout vineyards that can’t be reached by hand?**  
    *Decision affected:* Impacts whether or not the tool is extendable/flexible to enable greater reach
-
-\newpage
-
-# Optional page 2 — References and/or one figure
 
 ## References
 
